@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPGenerator.Common", "SPGenerator.Common\SPGenerator.Common.csproj", "{49FF9A05-1A3B-4468-A09C-779925AB168C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPGenerator.Core", "SPGenerator.Core\SPGenerator.Core.csproj", "{5719E238-B6DD-455A-A205-4EC5BF5B1C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPGenerator.DAL", "UpdateSPGenerator.cs\SPGenerator.DAL.csproj", "{F4AFC87C-5297-4DCE-8185-CD9C1D58C4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPGenerator.DataModel", "SPGenerator.DataModel\SPGenerator.DataModel.csproj", "{39FF7D4A-5D0B-4439-AC5D-29A8F6918230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPGenerator.Interface", "SPGenerator.Interface\SPGenerator.Interface.csproj", "{AEFEB408-23FF-47F2-BC24-A885804D9E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPGenerator.UI", "SPGenerator.UI\SPGenerator.UI.csproj", "{62082265-F952-4009-829F-5487A7B0F7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewControl", "TreeViewControl\TreeViewControl.csproj", "{33F6A31B-9977-4553-BFFC-A06D5877D05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FF9A05-1A3B-4468-A09C-779925AB168C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FF9A05-1A3B-4468-A09C-779925AB168C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FF9A05-1A3B-4468-A09C-779925AB168C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FF9A05-1A3B-4468-A09C-779925AB168C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5719E238-B6DD-455A-A205-4EC5BF5B1C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5719E238-B6DD-455A-A205-4EC5BF5B1C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5719E238-B6DD-455A-A205-4EC5BF5B1C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5719E238-B6DD-455A-A205-4EC5BF5B1C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AFC87C-5297-4DCE-8185-CD9C1D58C4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AFC87C-5297-4DCE-8185-CD9C1D58C4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AFC87C-5297-4DCE-8185-CD9C1D58C4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AFC87C-5297-4DCE-8185-CD9C1D58C4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FF7D4A-5D0B-4439-AC5D-29A8F6918230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FF7D4A-5D0B-4439-AC5D-29A8F6918230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FF7D4A-5D0B-4439-AC5D-29A8F6918230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FF7D4A-5D0B-4439-AC5D-29A8F6918230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFEB408-23FF-47F2-BC24-A885804D9E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFEB408-23FF-47F2-BC24-A885804D9E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFEB408-23FF-47F2-BC24-A885804D9E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFEB408-23FF-47F2-BC24-A885804D9E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62082265-F952-4009-829F-5487A7B0F7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62082265-F952-4009-829F-5487A7B0F7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62082265-F952-4009-829F-5487A7B0F7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62082265-F952-4009-829F-5487A7B0F7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F6A31B-9977-4553-BFFC-A06D5877D05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F6A31B-9977-4553-BFFC-A06D5877D05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F6A31B-9977-4553-BFFC-A06D5877D05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F6A31B-9977-4553-BFFC-A06D5877D05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

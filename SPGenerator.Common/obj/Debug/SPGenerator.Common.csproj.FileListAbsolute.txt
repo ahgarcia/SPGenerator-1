@@ -1,0 +1,5 @@
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Common\bin\Debug\SPGenerator.Common.dll
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Common\bin\Debug\SPGenerator.Common.pdb
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Common\obj\Debug\SPGenerator.Common.csprojResolveAssemblyReference.cache
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Common\obj\Debug\SPGenerator.Common.dll
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Common\obj\Debug\SPGenerator.Common.pdb

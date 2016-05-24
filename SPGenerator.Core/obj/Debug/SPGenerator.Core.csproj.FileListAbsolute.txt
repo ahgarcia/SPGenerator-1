@@ -1,0 +1,12 @@
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SPGenerator.Core.dll
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SPGenerator.Core.pdb
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SPGenerator.Common.dll
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SPGenerator.DataModel.dll
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SPGenerator.Common.pdb
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SPGenerator.DataModel.pdb
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\obj\Debug\SPGenerator.Core.csprojResolveAssemblyReference.cache
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\obj\Debug\SPGenerator.Core.dll
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\obj\Debug\SPGenerator.Core.pdb
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\obj\Debug\SPGenerator.Core.Properties.Resources.resources
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\obj\Debug\SPGenerator.Core.csproj.GenerateResource.Cache
+C:\Users\TechStation01\Source\Repos\ProcGenerator\SPGenerator.Common\SPGenerator.Core\bin\Debug\SqlKeyWords.txt
